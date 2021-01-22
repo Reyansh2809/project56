@@ -1,0 +1,9 @@
+body {
+text-align:center;
+background: linear-gradient(45deg, rgba(10,216,23,1) 41%, rgba(77,205,190,0.6337885495995272) 50%, rgba(60,12,221,1) 63%);
+font-size:30px  
+}
+img{
+width:400px;
+height:300px;  
+}
